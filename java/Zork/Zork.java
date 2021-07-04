@@ -7,7 +7,7 @@ import java.util.zip.DataFormatException;
  * A class which runs the Zork game and allows users to play and edit the tree.
  *
  * @author
- * Will Li
+ * liwll
  */
 public class Zork {
     private static String fileName;
