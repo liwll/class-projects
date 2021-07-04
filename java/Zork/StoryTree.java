@@ -10,7 +10,7 @@ import java.util.zip.DataFormatException;
  * and the game ends. There are fields for the root, cursor, and state.
  *
  * @author
- * Will Li
+ * liwll
  */
 public class StoryTree {
     private StoryTreeNode root;
