@@ -3,7 +3,7 @@
  * the position, option, message, and children.
  *
  * @author
- * Will Li
+ * liwll
  */
 public class StoryTreeNode {
     public static final String WIN_MESSAGE = "YOU WIN";
